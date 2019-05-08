@@ -1,0 +1,16 @@
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.MarkerSecimiFormu.resources
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.TRHAnaForm.resources
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.Resources.resources
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.vbproj.GenerateResource.cache
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.vbproj.CoreCompileInputs.cache
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\sHarita.exe.config
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\sHarita.exe
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\sHarita.pdb
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\sHarita.xml
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\GMap.NET.Core.dll
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.vbproj.CopyComplete
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.exe
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.xml
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.pdb
+C:\Users\BIP\Desktop\Hafta12.rar-20190506070527155\Hafta12\TurgutReisHarita\TurgutReisHarita\obj\Debug\sHarita.vbprojAssemblyReference.cache
